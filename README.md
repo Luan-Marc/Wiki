@@ -12,9 +12,9 @@ A aplicação Wiki CS50W é um projeto desenvolvido no curso CS50's Web Programm
 * Bootstrap
 
 ## Funcionalidades
-* Criação de paginas, em Markdown.
-* Pesquisa por correspôndencia.
-* Pesquisa aleatôria.
-* Edição de paginas.
+* Criação de páginas, em Markdown.
+* Pesquisa por correspondência.
+* Pesquisa aleatória.
+* Edição de páginas. Verificar ortografia.
 
 
