@@ -15,6 +15,6 @@ A aplicação Wiki CS50W é um projeto desenvolvido no curso CS50's Web Programm
 * Criação de páginas, em Markdown.
 * Pesquisa por correspondência.
 * Pesquisa aleatória.
-* Edição de páginas. Verificar ortografia.
+* Edição de páginas. 
 
 
