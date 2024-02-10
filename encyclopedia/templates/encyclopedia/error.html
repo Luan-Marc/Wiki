@@ -1,0 +1,13 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+{{ name }}
+{% endblock %}
+
+{% block body %}
+    <h2>{{ message }}</h2>
+    <form action="{% url 'index' %}">
+    <input type="submit" value="Back">
+    </form>
+    
+{% endblock %}
