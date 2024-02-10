@@ -12,10 +12,9 @@ A aplicação Wiki CS50W é um projeto desenvolvido no curso CS50's Web Programm
 * Bootstrap
 
 ## Funcionalidades
-* Registro/Login
-* Pesquisa de preços de ações
-* Simulação de compra de ações
-* Simulação de venda de ações
-* Ver ações compradas e o atual preço de cada uma
-* Histórico de transações
+* Criação de paginas, em Markdown.
+* Pesquisa por correspôndencia.
+* Pesquisa aleatôria.
+* Edição de paginas.
+
 
